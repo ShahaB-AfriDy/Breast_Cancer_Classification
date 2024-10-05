@@ -1,5 +1,5 @@
-<img src="Breast Cancer.png" width="300" />
 # Breast Tumor Detection Using Deep Learning
+<img src="Breast Cancer.png" width="600" />
 
 ## Overview
 
