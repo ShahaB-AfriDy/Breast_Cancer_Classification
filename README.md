@@ -1,5 +1,3 @@
-# Breast_Cancer_Classification
-
 # Breast Tumor Detection Using Deep Learning
 
 ## Overview
